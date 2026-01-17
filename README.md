@@ -46,10 +46,9 @@
 ### 🌟 Featured Projects
 | Project | Description | Tech | Preview |
 |--------|-------------|------|--------|
-| [Hillish]((https://hillish-frontend.vercel.app/)) | Indigenous NE food marketplace | MERN + Stripe | ![Preview](https://hillish-frontend.vercel.app/) |
-| Hostel Hub | Hostel managment web application| MERN + Claude AI| ![Preview](https://my-hostel-project.vercel.app/) |
-| Mindcare | AI-powered mental health web-app | MERN | ![Preview](https://mindcareweb.netlify.app/) |
-
+| [Hillish](https://hillish-frontend.vercel.app/) | Indigenous NE food marketplace | MERN + Stripe | [View] |
+| [Hostel Hub](https://my-hostel-project.vercel.app/) | Hostel management web application | MERN + Claude AI | [View] |
+| [Mindcare](https://mindcareweb.netlify.app/) | AI-powered mental health web-app | MERN | [View] |
 
 
 
