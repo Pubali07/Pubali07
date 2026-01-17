@@ -46,9 +46,9 @@
 ### 🌟 Featured Projects
 | Project | Description | Tech | Preview |
 |--------|-------------|------|--------|
-| [Hillish](https://github.com/Pubali07/hillish) | Indigenous NE food marketplace | MERN + Stripe | ![Preview](https://your-hillish-image-url) |
-| CleanHive | Smart waste management app | Kotlin + Flask + Firebase | *coming soon* |
-| CampusBuddy | AI-powered student assistant | MERN + Gemini AI | *coming soon* |
+| [Hillish]((https://hillish-frontend.vercel.app/)) | Indigenous NE food marketplace | MERN + Stripe | ![Preview](https://hillish-frontend.vercel.app/) |
+| Hostel Hub | Hostel managment web application| MERN + Claude AI| ![Preview](https://my-hostel-project.vercel.app/) |
+| Mindcare | AI-powered mental health web-app | MERN | ![Preview](https://mindcareweb.netlify.app/) |
 
 
 
