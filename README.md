@@ -44,11 +44,11 @@
 ---
 
 ### 🌟 Featured Projects
-| Project | Description | Tech | Preview |
-|--------|-------------|------|--------|
-| [Hillish](https://hillish-frontend.vercel.app/) | Indigenous NE food marketplace | MERN + Stripe | [View] |
-| [Hostel Hub](https://my-hostel-project.vercel.app/) | Hostel management web application | MERN + Claude AI | [View] |
-| [Mindcare](https://mindcareweb.netlify.app/) | AI-powered mental health web-app | MERN | [View] |
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Hillish](https://hillish-frontend.vercel.app/) | Indigenous NE food marketplace | MERN + Stripe | 
+| [Hostel Hub](https://my-hostel-project.vercel.app/) | Hostel management web application | MERN + Claude AI |
+| [Mindcare](https://mindcareweb.netlify.app/) | AI-powered mental health web-app | MERN | 
 
 
 
