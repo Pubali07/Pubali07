@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=FF79C6&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pubali+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%8C%90;MERN+Stack+%2B+Vite+is+my+playground+%F0%9F%9A%80;Turning+ideas+into+beautiful+UIs+%F0%9F%92%85;From+Northeast+India%2C+with+%F0%9F%92%9C)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=FF79C6&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pubali+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%8C%90;MERN+Stack+Developer;Turning+ideas+into+beautiful+UIs+%F0%9F%92%85)
 
 </div>
 
@@ -17,7 +17,6 @@
 ```typescript
 const pubali = {
   name      : "Pubali Saikia",
-  location  : "Northeast India 🌿",
   role      : "Full Stack Developer",
   stack     : ["MongoDB", "Express", "React", "Node.js"],
   currentlyOn: "Building Hillish 🍛 + learning AI",
@@ -31,9 +30,8 @@ const pubali = {
 
 
 - 🤖 Integrating **AI/ML** into real-world products
-- 🎨 Obsessed with clean UI and smooth micro-interactions
 - 🌱 Currently exploring **AI integrations** + **design systems**
-- ⚡ Fun fact: I name my components like they're main characters
+
 
 <br clear="right"/>
 
